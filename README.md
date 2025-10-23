@@ -1,5 +1,5 @@
 > <img 
-    src="https://drive.google.com/uc?id=16kQ1lb3n84dc5SIa6Kf3-yvs0_BPCkay" 
+    src="https://drive.google.com/uc?export=view&id=1CXKRvxH0vwgDIdER0FuX6NDAdMKHk78m" 
     alt="random image" 
     width="80px" 
     align="center" 
